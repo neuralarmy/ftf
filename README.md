@@ -2,12 +2,12 @@
 
 ## Run
 
-###Install npm modules
+### Install npm modules
 
 npm install
 
 
-###Start the application
+### Start the application
 
 npm start
 
